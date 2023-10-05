@@ -1,6 +1,6 @@
 export default {
   secretKey: '71d28c1102effc3578b41445bfeee5cf18c923169f1b64e26a4afd76f5d9d847',
-  host: 'bzap.up.railway.app',
+  host: 'https://bzap.up.railway.app',
   port: '3000',
   deviceName: 'WppConnect',
   poweredBy: 'WPPConnect-Server',
